@@ -1,5 +1,7 @@
  # node-red-contrib-countdown-3000
 
+**Dec 2025: Regrettably 'watch' wasn't turned on for me on this repo and so I missed some issue reports. The issues posted relate to the original, forked code, however I will take a look when possible. My work and home life has taken off in a different direction and I don't have as much time now to dig into this kind of stuff.**
+
 `node-red-contrib-countdown-3000` is a simple countdown node for Node-Red.
 
 This code is based on node-red-contrib-countdown-2 by marc, see here for the general description:
